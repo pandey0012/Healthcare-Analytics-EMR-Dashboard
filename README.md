@@ -134,4 +134,4 @@ Users can filter the dashboard using:
 
 ### Dashboard Preview
 
-![Healthcare Dashboard](https://github.com/pandey0012/Healthcare-Analytics-EMR-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png.png?raw=true)
+![Healthcare Dashboard](https://github.com/pandey0012/Healthcare-Analytics-EMR-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png.png)
