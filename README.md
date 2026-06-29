@@ -152,5 +152,5 @@ Interactive Filters
 
 Dashboard Preview(https://github.com/pandey0012/Healthcare-Analytics-EMR-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png.png
 )
+<img width="1321" height="732" alt="Snapshot of the Dashboard png" src="https://github.com/user-attachments/assets/915ad40e-10ee-4f41-8b9e-19b86262d435" />
 
-(Add your dashboard screenshot here)
