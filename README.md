@@ -150,6 +150,7 @@ Interactive Filters
 
 6. Screenshots / Demo
 
-Dashboard Preview
+Dashboard Preview(https://github.com/pandey0012/Healthcare-Analytics-EMR-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png.png
+)
 
 (Add your dashboard screenshot here)
